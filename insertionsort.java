@@ -30,7 +30,7 @@ public class InsertionSort {
 	// Metoda kryesore
 	public static void main(String args[])
 	{
-		int arr[] = { 12, 11, 13, 5, 6 };
+		int arr[] = { 13, 10, 16, 4, 9 };
 
 		InsertionSort ob = new InsertionSort();
 		ob.sort(arr);
